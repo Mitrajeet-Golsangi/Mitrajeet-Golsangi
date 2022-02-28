@@ -49,8 +49,8 @@ I love problem solving and web development
 ### 📫 Contact Me @
 <p>
 <!--   <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-mitrajeetgolsangi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+    <a href="https://mitrajeetgolsangi.com" target="_blank"><img src="https://img.shields.io/badge/-Website-E4405F?style=flat&logo=Link&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mitrajeet-golsangi-b939611ab/"><img src="https://img.shields.io/badge/-Mitrajeet%20Golsangi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mitrajeetgolsangi@gmail.com"><img src="https://img.shields.io/badge/-mitrajeetgolsangi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/mitrajeet_golsangi"><img src="https://img.shields.io/badge/-@mitrajeet_golsangi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://mitrajeetgolsangi.com" target="_blank"><img src="https://img.shields.io/badge/-Website-E4405F?style=flat&logo=Link&logoColor=white"/></a>
 </p>
