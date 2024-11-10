@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋,
 
-I am Mitrajeet Golsangi, a student at VIT Pune
+I am Mitrajeet Golsangi, a Software Developer.
 I love problem solving and web development
 
 ### ⚙️ Tools I use
@@ -43,13 +43,13 @@ I love problem solving and web development
 
 ### ⚡ Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitrajeet-Golsangi&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitrajeet-Golsangi&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitrajeet-Golsangi&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitrajeet-Golsangi&layout=donut&theme=gotham&hide=jupyter%20notebook&hide_border=true&card_width=330)
 
 ### 📫 Contact Me @
 <p>
 <!--   <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-mitrajeetgolsangi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-    <a href="https://mitrajeetgolsangi.com" target="_blank"><img src="https://img.shields.io/badge/-Website-E4405F?style=flat&logo=Link&logoColor=white"/></a>
+    <a href="https://mitrajeetgolsangi.com" target="_blank"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mitrajeet-golsangi-b939611ab/"><img src="https://img.shields.io/badge/-Mitrajeet%20Golsangi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mitrajeetgolsangi@gmail.com"><img src="https://img.shields.io/badge/-mitrajeetgolsangi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/mitrajeet_golsangi"><img src="https://img.shields.io/badge/-@mitrajeet_golsangi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
