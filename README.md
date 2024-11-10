@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
+![banner-2024-cropped](https://github.com/user-attachments/assets/b1cca7d3-d42b-479a-80de-09698594ceaf)
+
+Photo by <a href="https://unsplash.com/@emilep?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Emile Perron</a> on <a href="https://unsplash.com/photos/macbook-pro-showing-programming-language-xrVDYZRGdw4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 
 ### Hi there 👋,
 
