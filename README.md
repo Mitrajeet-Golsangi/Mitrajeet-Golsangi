@@ -20,7 +20,9 @@ Photo by <a href="https://unsplash.com/@emilep?utm_content=creditCopyText&utm_me
 ### Hi there 👋,
 
 I am Mitrajeet Golsangi, a Software Developer.
-I love problem solving and web development
+I love problem-solving and web development
+
+<center><a href="https://app.daily.dev/mitrajeetgolsangi"><img src="https://api.daily.dev/devcards/v2/vsR8W7Qyn2SZQRqhm3l4j.png?type=wide&r=neo" width="700" alt="Mitrajeet Golsangi's Dev Card"/></a></center>
 
 ### ⚙️ Tools I use
 
